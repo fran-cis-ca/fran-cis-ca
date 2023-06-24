@@ -1,4 +1,14 @@
-### Hi there 👋
+<div id="header" align="center">
+  <h1>Hello, I'm Fran-cis-ca</h1>
+</div>
+
+<div  align="center">
+  <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="200" >
+  <p>I'm a full-stack programmer, I like challenges and keep feeding my mind continuously, I love to design and make everything relatively perfect.</p>
+</div>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fran-cis-ca&bg_color=000000&color=2f9b42&line=ff0f0f&point=462626&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **fran-cis-ca/fran-cis-ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
